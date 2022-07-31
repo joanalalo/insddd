@@ -1,0 +1,21 @@
+﻿انشىء قاعدة بيانات عبر
+phpmyadmin
+ثم استورد ملف قاعدة البيانات التالى لانشاء الجداول
+chat.sql
+
+
+تحياتى لكم : القط
+
+تابعونا على :
+
+فيسبوك :
+https://fb.com/el2tlinux
+
+تركس :
+https://linx.ml
+
+مدونة القط :
+https://el2t.wordpress.com
+
+مدونة بالعربى بايثون :
+https://bl3rabe.blogspot.com
